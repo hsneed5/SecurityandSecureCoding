@@ -1,8 +1,5 @@
 
-// ====================
 // README
-// ====================
-/*
  Crypto App (JavaScript)
 
  Overview
